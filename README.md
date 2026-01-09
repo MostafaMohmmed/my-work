@@ -7,7 +7,7 @@
 
 ## 🌐 Web Projects
 ![Web Project 2](web-projects/screencapture-dojek.png)
-![Web Project 2](web-projects/screencapture-dojek.png)
+![Web Project 2](web-projects/pharmacy.jpg)
 
 ---
 
