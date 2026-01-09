@@ -2,8 +2,12 @@
 
 ## 📱 Mobile Apps
 ![Mobile App UI](mobile-apps/ui_app_2.jpg)
-![Mobile App UI](mobile-apps/ui_6.png)
-![Mobile App Screen](mobile-apps/app/IMG-20251124-WA0005.jpg)
+![Mobile App UI 2](mobile-apps/ui_6.png)
+
+
+## 🌐 Web Projects
+![Web Project 1](web-projects/screencapture-developer working.png)
+![Web Project 2](web-projects/screencapture-dojek.png)
 
 ---
 
