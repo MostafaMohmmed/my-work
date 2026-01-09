@@ -1,7 +1,7 @@
 # My Work Portfolio
 
 ## 📱 Mobile Apps
-![Mobile App UI](mobile-apps/ui.jpg)
+![Mobile App UI](mobile-apps/ui_app (2).jpg)
 ![Mobile App Screen](mobile-apps/ui_6.png)
 
 ---
