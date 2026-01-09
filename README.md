@@ -6,7 +6,7 @@
 
 
 ## 🌐 Web Projects
-![Web Project 1](web-projects/screencapture-developer working.png)
+![Web Project 1](web-projects/screencapture-developer-working.png)
 ![Web Project 2](web-projects/screencapture-dojek.png)
 
 ---
