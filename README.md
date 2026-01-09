@@ -1,1 +1,11 @@
-# my-work
+# My Work Portfolio
+
+## 📱 Mobile Apps
+![Mobile App UI](mobile-apps/ui.jpg)
+![Mobile App Screen](mobile-apps/ui_3.png)
+
+---
+
+### About Me
+UI designer working on web and mobile applications.
+Interested in building products from scratch in startup environments.
