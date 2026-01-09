@@ -1,8 +1,8 @@
 # My Work Portfolio
 
 ## 📱 Mobile Apps
-![Mobile App UI](mobile-apps/ui_app_2.jpg)
-![Mobile App UI 2](mobile-apps/ui_6.png)
+![Mobile App](mobile-apps/app/IMG-20251124-WA0006.jpg)
+![Mobile App 2](mobile-apps/ui_6.png)
 
 
 ## 🌐 Web Projects
