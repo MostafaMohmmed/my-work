@@ -5,7 +5,7 @@
 ![Web Project 2](web-projects/Dans-Fashion-Store.png)
 
 ## 📱 Mobile Apps
-![Mobile App 1](mobile-apps/Real-Estate-Owner-Profile-UI-Design.jpg)
+![Mobile App 1](mobile-apps/Dark-Mode-Login-Portal-UI-Design.png)
 ![Mobile App 2](mobile-apps/app/home_app.jpg)
 
 ---
