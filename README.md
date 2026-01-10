@@ -1,16 +1,15 @@
 # My Work Portfolio
 
-## 📱 Mobile Apps
-![Mobile App](mobile-apps/app/IMG-20251124-WA0006.jpg)
-![Mobile App 2](mobile-apps/ui_6.png)
-
-
 ## 🌐 Web Projects
-![Web Project 2](web-projects/screencapture-dojek.png)
-![Web Project 2](web-projects/pharmacy.jpg)
+![Web Project 1](web-projects/Clean-Analytics-Dashboard-website.png)
+![Web Project 2](web-projects/Dans-Fashion-Store.png)
+
+## 📱 Mobile Apps
+![Mobile App 1](mobile-apps/Real Estate Owner Profile UI Design.jpg)
+![Mobile App 2](mobile-apps/app/home_app.jpg)
 
 ---
 
 ### About Me
-UI designer working on web and mobile applications.
+UI Designer working on web and mobile applications.
 Interested in building products from scratch in startup environments.
